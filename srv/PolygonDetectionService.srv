@@ -1,0 +1,3 @@
+cti_msgs/PolygonDetection polygon_detection
+---
+std_msgs/Int32 result

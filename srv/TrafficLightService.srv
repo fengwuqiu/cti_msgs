@@ -1,0 +1,7 @@
+std_msgs/Header header
+geometry_msgs/PointStamped traffic_light_point
+---
+# 0: stop, 1: go, 2: unknown
+std_msgs/Header header
+int8 action
+int8 label_id

@@ -1,0 +1,2 @@
+int64 cpu_index
+float64 cpu_percent
