@@ -1,0 +1,18 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/neousys/ros2_ws/install/rslidar_msg/lib/python3.8/site-packages",
+        "/home/neousys/ros2_ws/install/cti_vector_map_msgs/lib/python3.8/site-packages",
+        "/home/neousys/ros2_ws/install/cti_rblite_msgs/lib/python3.8/site-packages",
+        "/home/neousys/ros2_ws/install/cti_msgs/lib/python3.8/site-packages",
+        "/home/neousys/ros2_ws/install/cti_fpga_serial_msgs/lib/python3.8/site-packages",
+        "/opt/cti/humble/rslidar_msg/lib/python3.8/site-packages",
+        "/opt/cti/humble/localization/lib/python3.8/site-packages",
+        "/opt/cti/humble/hesai_lidar/lib/python3.8/site-packages",
+        "/opt/cti/humble/cti_vector_map_msgs/lib/python3.8/site-packages",
+        "/opt/cti/humble/cti_rblite_msgs/lib/python3.8/site-packages",
+        "/opt/cti/humble/cti_msgs/lib/python3.8/site-packages",
+        "/opt/cti/humble/cti_fpga_serial_msgs/lib/python3.8/site-packages",
+        "/opt/ros/humble/lib/python3.8/site-packages"
+    ],
+    "ros.distro": "foxy"
+}

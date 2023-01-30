@@ -1,0 +1,4 @@
+geometry_msgs/PoseStamped current_pose
+geometry_msgs/PoseStamped target_pose
+---
+cti_msgs/AutoPath path

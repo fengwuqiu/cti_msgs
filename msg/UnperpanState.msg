@@ -1,0 +1,7 @@
+std_msgs/Header header
+uint8 left_front_steering_limit 
+uint8 left_back_steering_limit
+uint8 right_front_steering_limit
+uint8 right_back_steering_limit
+uint8 front_bumper_bar_flag
+uint8 rear_bumper_bar_flag
