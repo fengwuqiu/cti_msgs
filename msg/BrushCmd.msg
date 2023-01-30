@@ -1,0 +1,10 @@
+std_msgs/Header header
+bool bruch_on
+bool brush_down
+float64 left_brush_expected_clean_range
+float64 left_brush_expected_stretch_length
+float64 left_brush_expected_stretch_percentage
+float64 right_brush_expected_clean_range
+float64 right_brush_expected_stretch_length
+float64 right_brush_expected_stretch_percentage
+string data

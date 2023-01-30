@@ -1,0 +1,2 @@
+string pro_name
+float64 pro_cpu_percent

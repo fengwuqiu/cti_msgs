@@ -1,0 +1,12 @@
+std_msgs/Header header
+float32 robot_width
+float32 robot_widthnude
+float32 robot_length   
+float32 robot_higth
+float32 shaft_length
+float32 shaft_width
+float32 front_rear_wheel_dist
+float32 wheel_dist
+float32 base_link_rslidar 
+float32 min_turn_radius
+float32 box_length

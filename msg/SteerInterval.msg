@@ -1,0 +1,7 @@
+float32 begin_angle
+float32 begin_turn_radius
+float32 center_angle
+float32 center_turn_radius
+float32 end_angle
+float32 end_turn_radius
+

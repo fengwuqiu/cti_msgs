@@ -1,0 +1,5 @@
+uint64 gpu_index
+string gpu_name
+uint64 gpu_use_percent
+uint64 gpu_mem_percent
+uint64 gpu_temp
