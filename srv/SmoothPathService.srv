@@ -1,0 +1,6 @@
+int32 id
+cti_msgs/AutoPath path
+nav_msgs/OccupancyGrid map
+---
+int32 id
+cti_msgs/AutoPath path

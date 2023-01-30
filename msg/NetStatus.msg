@@ -1,0 +1,9 @@
+string net_name
+float64 receive_speed_kbs
+int64 receive_packets
+int64 receive_packets_errs
+int64 receive_packets_drop
+float64 transmit_speed_kbs
+int64 transmit_packets
+int64 transmit_packets_errs
+int64 transmit_packets_drop

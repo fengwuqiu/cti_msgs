@@ -1,0 +1,17 @@
+std_msgs/Header header 
+string nav_version
+string map_version
+string hardware_version
+string operation_control_version
+string left_front_diver_version
+string right_front_diver_version
+string left_back_diver_version 
+string right_back_diver_version
+string front_brake_diver_version
+string back_brake_diver_version
+string forwards_way_diver_version
+string backwards_way_diver_version
+string light_control_version
+string battery_tandem_version
+string debug_interface_version
+string[16] ultrasonicvers
